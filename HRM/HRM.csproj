@@ -51,6 +51,8 @@
     <Compile Include="BLL\ChucDanhBLL.cs" />
     <Compile Include="BLL\NhanVienBLL.cs" />
     <Compile Include="BLL\NguoiDungBLL.cs" />
+    <Compile Include="DAL\LuongDAL.cs" />
+    <Compile Include="DAL\NgayLeDAL.cs" />
     <Compile Include="DAL\PhongBanDAL.cs" />
     <Compile Include="DAL\ChucDanhDAL.cs" />
     <Compile Include="DAL\DBConnection.cs" />
