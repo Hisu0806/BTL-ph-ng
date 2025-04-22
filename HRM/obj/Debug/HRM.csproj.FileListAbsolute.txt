@@ -1,0 +1,9 @@
+F:\New folder (2)\HRM_DATN\HRM\obj\Debug\HRM.Properties.Resources.resources
+F:\New folder (2)\HRM_DATN\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+F:\New folder (2)\HRM_DATN\HRM\bin\Debug\HRM.exe.config
+F:\New folder (2)\HRM_DATN\HRM\bin\Debug\HRM.exe
+F:\New folder (2)\HRM_DATN\HRM\bin\Debug\HRM.pdb
+F:\New folder (2)\HRM_DATN\HRM\obj\Debug\HRM.exe
+F:\New folder (2)\HRM_DATN\HRM\obj\Debug\HRM.pdb
+F:\New folder (2)\HRM_DATN\HRM\obj\Debug\HRM.csproj.AssemblyReference.cache
+F:\New folder (2)\HRM_DATN\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
